@@ -12,7 +12,7 @@
   </p>
 
   <h2 style="color: #2c3e50;">🖼️ Architecture Diagram</h2>
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*ct0J0HumpLwYG3E3oKkmVQ.png"
+  <img src="https://github.com/AbhishekGandre/User_Management_Api_System/blob/main/Spring%20Boot%20Project%20Structure.PNG"
        alt="Spring Boot JPA Architecture"
        style="max-width: 100%; border: 1px solid #ccc; border-radius: 4px;" />
 
